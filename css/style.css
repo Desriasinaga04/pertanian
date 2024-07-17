@@ -1,0 +1,42 @@
+.warna1{
+background-color: #8FBC8F;
+}
+.warna2{
+background-color: #60ca5c;
+}
+.warna3{
+    background-color: #EEC373;
+    }
+.warna4{
+    background-color: #F4DFBA;
+ }
+ 
+ .highlighted-kategori{
+    border: solid;
+    height: 250px;
+ }
+ .no-decoration{
+    text-decoration: none;
+    color: white;
+ }
+ .no-decoration:hover{
+    background-color: #EEC373;
+ }
+ .txt-harga{
+    font-size: 22px;
+    color: #CA965C;
+ }
+ .image-box{
+    height: 250px;
+ }
+ .image-box img{
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    object-position: center;
+ }
+ .banner-produk{
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('../image/tokobaju1.jpg');
+    height: 80vh;
+    background-position: 50% 30%;
+ }
